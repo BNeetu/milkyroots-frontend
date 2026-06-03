@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "//": "Final recovery config - pointed to backend-1sk1",
   "rewrites": [
     {
       "source": "/api/(.*)",
